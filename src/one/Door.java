@@ -1,6 +1,6 @@
 package one;
 
 public abstract class Door {
-    abstract void open();
+    protected abstract void open();
     abstract void close();
 }
